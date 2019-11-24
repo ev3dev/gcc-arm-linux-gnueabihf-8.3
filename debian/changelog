@@ -1,5 +1,5 @@
-gcc-linaro-arm-linux-gnueabihf-6.4 (2017.11) trusty; urgency=low
+gcc-arm-linux-gnueabihf-8.3 (2019.03) bionic; urgency=low
 
   * Initial Release.
 
- -- David Lechner <david@lechnology.com>  Tue, 26 Dec 2017 16:11:09 -0600
+ -- David Lechner <david@lechnology.com>  Sun, 24 Nov 2019 15:40:51 -0600
